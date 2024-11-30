@@ -11,6 +11,7 @@ When I started running, I absolutely hated it. Every mile was a struggle, everyt
 The secret part of that pledge lasted only as long as it took me to run my first 5K, but I dutifully revealed my full hand after completing the marathon a couple of years later. Naturally, he’d completely forgotten ever doubting me. So it goes. But what started out as a project of spite had quickly become the greatest love of my 30s. Yes, I’m aware of how this sounds and I don’t care.
 
 But this isn’t a blog about how I fell in love with running. Like everything I’ve ever loved in life, running has hurt me almost as much as it’s energized me. It’s energized me into wanting to head out into all kinds of weather, and then sentenced me to a week of rest whenever I’ve gotten too cocky. So here are the big three ways I fucked up, and what I’d do differently if I were to start on this journey again.
+<!--more-->
 
 ## Mistake 1: If a training method feels bad, don’t do it
 
