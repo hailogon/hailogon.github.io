@@ -3,9 +3,6 @@ layout: post
 title: Mistakes I've made while running
 categories: [running]
 ---
-
-# Mistakes I’ve made while running
-
 When I started running, I absolutely hated it. Every mile was a struggle, everything hurt afterwards, and in those first nine months the only thing that kept me going was spite. A friend had teased me when I’d wondered out loud about running a marathon “in a couple of years time,” and in response I’d silently vowed to take up running in secret and prove him wrong.
 
 The secret part of that pledge lasted only as long as it took me to run my first 5K, but I dutifully revealed my full hand after completing the marathon a couple of years later. Naturally, he’d completely forgotten ever doubting me. So it goes. But what started out as a project of spite had quickly become the greatest love of my 30s. Yes, I’m aware of how this sounds and I don’t care.
