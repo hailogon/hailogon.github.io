@@ -33,11 +33,8 @@ navigation_links:
   - title: Blog
     url: /
 
-  - title: About
+  - title: Home
     url: https://jonporter.uk/
-
-  - title: Search
-    url: /search
 
 # Footer icons
 footer_links:
