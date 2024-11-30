@@ -57,6 +57,4 @@ The irony has not escaped me that I’m a person on the internet telling you not
 * Running requires strong leg muscles as well as a strong aerobic system. Don’t skimp on either. Strength train, and strength train with good form. Your body will find ways to not use muscles that it thinks aren’t up to the task at hand, and sometimes you have to fight to change that.  
 * It feels shit to limit your mileage when you feel like you could run further, but it’s worth it. The 10 percent rule is your friend.   
 * No one on YouTube knows what’s causing your injury, but a physio might. I have never regretted going to a physio, I have only ever regretted not going earlier.  
-* If some overengineered training hack doesn’t feel right, don’t force it. It might just not be right for you right now. 
-
-END  
+* If some overengineered training hack doesn’t feel right, don’t force it. It might just not be right for you right now.
